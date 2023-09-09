@@ -4,6 +4,5 @@
 
 ![image](https://github.com/eshonxodjayev01/Get_insta_info/assets/93433600/1de6c54e-041c-4f34-8281-7c4f476303df)
 
-![image](https://github.com/eshonxodjayev01/Get_insta_info/assets/93433600/d61ba9a1-69bf-4ddc-bb3a-6521314f04cc)
 
 Now this give you info about uploaded posts,followers,id and bio. Yeah it is restricted however you can add new functions and get infos from instaloader module)
